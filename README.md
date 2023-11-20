@@ -1,4 +1,6 @@
-### Hi there 👋
+### :star: Hello, word! Me chamo Joaquim 
+
+:mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é HTML/CSS/JS e no Backend com Java.
 
 <!--
 **JoaquimGo/JoaquimGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
