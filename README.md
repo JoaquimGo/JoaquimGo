@@ -1,18 +1,10 @@
-### :star: Hello, word! Me chamo Joaquim 
+## :star: Hello, word! Joaquim, aqui :)
 
-:mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é HTML/CSS/JS e no Backend com Java.
+## :man_technologist: Sobre mim :man_technologist:
+:mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é HTML/CSS/JS e no Backend com Python e Java.
 
-<!--
-**JoaquimGo/JoaquimGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/JoaquimGo">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimGo&layout=compact&langs_count=7&theme=radical"/>
+<!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaquimGo&theme=radical"/> -->
+</div>
