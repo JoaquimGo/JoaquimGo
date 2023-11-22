@@ -1,7 +1,7 @@
 ## :man_technologist: Joaquim, aqui :)
 
 <p align="">
- <a href="mailto:joagfilho@gmail.com" target="blank">
+ <a href="mailto:joagfilho@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="linkgmail" />
  </a>
  <a href="www.linkedin.com/in/joaquimgfilho" target="_blank">
