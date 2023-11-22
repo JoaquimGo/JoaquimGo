@@ -1,4 +1,4 @@
-## :star: Joaquim, aqui :)
+## :man_technologist: Joaquim, aqui :)
 
 <p align="">
  <a href="mailto:joagfilho@gmail.com" target="blank">
