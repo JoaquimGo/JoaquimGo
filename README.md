@@ -16,6 +16,9 @@
 <!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaquimGo&theme=radical"/> -->
 </div>
 
+<p align="center"> 
+ :books: Estou aprendendo:
+ 
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
